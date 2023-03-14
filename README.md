@@ -1,2 +1,2 @@
 # TOPICOS_ESSENCIAIS
-Tópicos Essenciais À Programação
+Programas, códigos e exercícios de Tópicos Essenciais À Programação
